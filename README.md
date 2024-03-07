@@ -5,11 +5,11 @@ Sistema de atendimento por ordem de chegada. Um simples projeto usando python e 
 
 1. Clone o repositório em sua máquina:
   ```bash
-  git clone https://github.com/franciscocolatino/Sistema-Academico.git
+  git clone git@github.com:franciscocolatino/Sistema-atendimento.git
   ```
 2. Acesse o repositório usando:
   ```bash
-  cd Sistema-Academico
+  cd Sistema-atendimento
   ```
 3. Instalando as dependências:
   ```bash
